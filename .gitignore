@@ -40,3 +40,5 @@ build/
 docker-compose.yml
 .idea/*
 
+
+.idea/*
